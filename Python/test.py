@@ -19,4 +19,4 @@ time.sleep(2)
 # Мы можем обращаться к элементам прямо по их названиям в интерфейсе
 main_window.child_window(title="Файл", control_type="MenuItem").click_input()
 
-print("Действие успешно выполнено!")
+print("Действие успешно выполнено")
